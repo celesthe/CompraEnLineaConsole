@@ -1,0 +1,16 @@
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.csproj.AssemblyReference.cache
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.AssemblyInfoInputs.cache
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.AssemblyInfo.cs
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.csproj.CoreCompileInputs.cache
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.exe
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.deps.json
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.runtimeconfig.json
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.runtimeconfig.dev.json
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.dll
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\ref\VentaOnline.dll
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\bin\Debug\net5.0\VentaOnline.pdb
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.dll
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\ref\VentaOnline.dll
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.pdb
+C:\Users\Celesthe Sazo\source\repos\VentaOnline\obj\Debug\net5.0\VentaOnline.genruntimeconfig.cache
